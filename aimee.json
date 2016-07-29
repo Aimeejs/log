@@ -1,0 +1,21 @@
+{
+  "name": "log",
+  "version": "0.1.0",
+  "description": "log",
+  "author": "gavinning",
+  "keywords": [
+    "log",
+    "console"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimeejs/log.git",
+    "bugs": "https:/github.com/aimeejs/log/issues"
+  },
+  "dependencies": {
+    "is": "^1.0.0",
+    "time": "^0.1.0",
+    "extend": "^1.0.0",
+    "config": "^2.1.1"
+  }
+}
